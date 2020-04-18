@@ -1,0 +1,35 @@
+.my-form{
+    font-size: 18px;
+    background-color: #eeeeee7a;
+    padding: 25px;
+    border-radius: 4px;
+}
+
+.my-form input{
+    margin: 10px 0 25px 0;
+    height: 30px;
+    width: 100%;
+    border-radius: 3px;
+    box-shadow: none;
+    outline: none;
+    border: solid 1px #ccc;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.my-form .submit-btn{
+    font-size: 18px;
+    padding: 10px;
+    height: 45px;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    background-color: #516cf0;
+    color: #ffffff
+}
+
+.my-form .submit-btn:hover{
+    background-color: #2d4ff3;
+}
